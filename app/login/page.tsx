@@ -1,6 +1,6 @@
 
 import Image from "next/image"
-import BackImage from "../../../public/i7py.png"
+import BackImage from "../../public/i7py.png"
 import Styles from "./login.module.css"
 const Login = () => {
     return <div style={{
